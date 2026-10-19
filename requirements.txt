@@ -1,0 +1,13 @@
+# Core (required)
+numpy>=1.26
+opencv-python>=4.9
+mediapipe>=0.10.14
+
+# Optional: real FLUX.1 image-to-image styling (python app.py --flux)
+# torch>=2.3
+# diffusers>=0.32
+# transformers>=4.44
+# accelerate>=0.33
+# sentencepiece
+# protobuf
+# pillow
